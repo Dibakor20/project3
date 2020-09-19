@@ -292,6 +292,22 @@ font-family: "Bebas Neue";
    font-family: "Alfa Slab One";
    text-transform: uppercase;
 }
+.fit{
+    font-size: 17px;
+line-height: 29px;
+color: #3d2514;
+font-weight: 400;
+font-family: "Montserrat";
+text-align: center;
+}
+.desc{
+    font-size: 17px;
+line-height: 29px;
+color: #3d2514;
+font-weight: 400;
+font-family: "Montserrat";
+text-align: center;
+}
 .descrip{
     margin-top: 15px;
     font-size: 18px;
