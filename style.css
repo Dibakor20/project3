@@ -472,3 +472,9 @@ font-family: "Bebas Neue";
     background-color: crimson;
    
 }
+.right-content img{
+    width: 100%;
+}
+.mid h3{
+ font-size: 20px;
+}
